@@ -13,4 +13,4 @@ In the frontend root directory. Run:
 * `npm install` to install all react dependencies.
 * `npm start` to run the react application
 
-Check [localhost:3000](http://localhost:3000) to view application on your browser
+Check [http://localhost:3000](http://localhost:3000) to view application on your browser

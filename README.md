@@ -2,6 +2,8 @@
 
 This is a simple Todo application built with ReactJs and Django Rest Framework.
 
+![alt text](https://github.com/kayprogrammer/cryptoverse-with-react/blob/master/display.png?raw=true)
+
 ### How to Test Locally...
 
 * Download this repository

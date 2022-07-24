@@ -2,7 +2,9 @@
 
 This is a simple Todo application built with ReactJs and Django Rest Framework.
 
-![alt text](https://github.com/kayprogrammer/todo-application/blob/master/display.png?raw=true)
+Alternate repo but with plain HTML/CSS/JAVASCRIPT - [Todo Application](https://github.com/kayprogrammer/todo-application/)
+
+![alt text](https://github.com/kayprogrammer/todo-application-2/blob/master/display.png?raw=true)
 
 ### How to Test Locally...
 
